@@ -6,6 +6,9 @@
 - Betting with chips (configurable chip values)
 - Interactive UI
 
+## Demo
+![Blackjack](blackjack.gif)
+
 ## Project Structure
 ```bash
 .
